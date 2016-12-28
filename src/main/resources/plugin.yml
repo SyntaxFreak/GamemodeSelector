@@ -1,0 +1,7 @@
+name: GamemodeSelector
+main: net.b1naryfr3ak.gamemodeselector.GmSelector
+version: 1.0
+author: b1naryfr3ak
+commands:
+    selector:
+        description: Opens the gamemode selector.

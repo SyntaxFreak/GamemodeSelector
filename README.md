@@ -1,0 +1,2 @@
+# GamemodeSelector
+This plugin was created with b1naryfr3ak with the prediction that it would not be used on production servers because of it's uselessness, therefore a JAR file to download it will not be included. However if you are interested in a JAR file and don't know how to compile this yourself please open an issue on the issue tracker.
